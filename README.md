@@ -35,13 +35,13 @@ To use Yctus Comment Meta:
 1. Include the library in your project.
 2. Initialize it with your configuration settings.
 
-# 🎯 yctus-comment-meta - AlgaComments System
+# 🎯 yctus-comment-meta - YCTUS System
 
 Centralizador de Comentários com Moderação
 
 ## 📋 Visão Geral
 
-Implemente o sistema **AlgaComments**: um conjunto de dois microsserviços que se comunicam de forma **síncrona via HTTP/REST** usando Spring RestClient. O sistema é responsável por receber comentários e enviá-los para moderação.
+Implemente o sistema **YCTUS Comments**: um conjunto de dois microsserviços que se comunicam de forma **síncrona via HTTP/REST** usando Spring RestClient. O sistema é responsável por receber comentários e enviá-los para moderação.
 
 ### ✅ Funcionalidades Principais
 
