@@ -1,0 +1,2 @@
+# yctus-comment-meta
+centralizador
