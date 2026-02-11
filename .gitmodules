@@ -1,0 +1,6 @@
+[submodule "microservices/yctus-moderation-service"]
+	path = microservices/yctus-moderation-service
+	url = https://github.com/michelangelomc/yctus-moderation-service.git
+[submodule "microservices/yctus-comment-service"]
+	path = microservices/yctus-comment-service
+	url = https://github.com/michelangelomc/yctus-comment-service.git
